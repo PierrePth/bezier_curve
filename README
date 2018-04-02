@@ -4,7 +4,7 @@ This is a (very) quick implementation of bezier curves. I had a project at schoo
 in which we had the possibility to use bezier curves but I did not have the
 time to do it. I was just curious to see how it is working.
 
-->  details of implementation :
+->  details of implementation (bezier.py):
 
 A function bezier_call() calls a recursive function that follows the recursive
 definition of bezier curves. We fill an array of points trought a loop. The number
